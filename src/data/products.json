@@ -1,0 +1,86 @@
+{
+  "tableTitle": "Top Performing Products",
+  "currency": "INR",
+  "data": [
+    {
+      "id": "PRD-1001",
+      "productName": "Wireless Bluetooth Headphones",
+      "category": "Electronics",
+      "unitsSold": 342,
+      "revenue": 684000,
+      "stockLeft": 58,
+      "stockStatus": "In Stock",
+      "rating": 4.6
+    },
+    {
+      "id": "PRD-1002",
+      "productName": "Smart Fitness Watch Pro",
+      "category": "Electronics",
+      "unitsSold": 278,
+      "revenue": 556000,
+      "stockLeft": 12,
+      "stockStatus": "Low Stock",
+      "rating": 4.4
+    },
+    {
+      "id": "PRD-1003",
+      "productName": "Cotton Casual T-Shirt Pack",
+      "category": "Fashion & Apparel",
+      "unitsSold": 521,
+      "revenue": 312600,
+      "stockLeft": 124,
+      "stockStatus": "In Stock",
+      "rating": 4.2
+    },
+    {
+      "id": "PRD-1004",
+      "productName": "Non-Stick Cookware Set (7pc)",
+      "category": "Home & Kitchen",
+      "unitsSold": 156,
+      "revenue": 234000,
+      "stockLeft": 0,
+      "stockStatus": "Out of Stock",
+      "rating": 4.7
+    },
+    {
+      "id": "PRD-1005",
+      "productName": "Ergonomic Laptop Stand",
+      "category": "Electronics",
+      "unitsSold": 198,
+      "revenue": 158400,
+      "stockLeft": 42,
+      "stockStatus": "In Stock",
+      "rating": 4.5
+    },
+    {
+      "id": "PRD-1006",
+      "productName": "Premium Leather Wallet",
+      "category": "Fashion & Apparel",
+      "unitsSold": 234,
+      "revenue": 140400,
+      "stockLeft": 8,
+      "stockStatus": "Low Stock",
+      "rating": 4.3
+    },
+    {
+      "id": "PRD-1007",
+      "productName": "Stainless Steel Water Bottle",
+      "category": "Home & Kitchen",
+      "unitsSold": 412,
+      "revenue": 123600,
+      "stockLeft": 89,
+      "stockStatus": "In Stock",
+      "rating": 4.8
+    },
+    {
+      "id": "PRD-1008",
+      "productName": "Programming Fundamentals Book",
+      "category": "Books & Stationery",
+      "unitsSold": 187,
+      "revenue": 74800,
+      "stockLeft": 34,
+      "stockStatus": "In Stock",
+      "rating": 4.6
+    }
+  ]
+}

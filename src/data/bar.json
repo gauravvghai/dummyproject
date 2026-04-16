@@ -1,0 +1,12 @@
+{
+  "chartTitle": "Monthly Revenue Trend",
+  "currency": "INR",
+  "data": [
+    { "month": "Oct 2025", "revenue": 485000, "orders": 312, "target": 500000 },
+    { "month": "Nov 2025", "revenue": 612000, "orders": 398, "target": 550000 },
+    { "month": "Dec 2025", "revenue": 758000, "orders": 492, "target": 600000 },
+    { "month": "Jan 2026", "revenue": 542000, "orders": 341, "target": 600000 },
+    { "month": "Feb 2026", "revenue": 687000, "orders": 445, "target": 650000 },
+    { "month": "Mar 2026", "revenue": 824000, "orders": 531, "target": 700000 }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "tableTitle": "Recent Transactions",
+  "currency": "INR",
+  "data": [
+    {
+      "orderId": "ORD-9821",
+      "customer": "Rohan Sharma",
+      "email": "rohan.sharma@example.com",
+      "amount": 4299,
+      "paymentMethod": "UPI",
+      "status": "Completed",
+      "date": "2026-04-15T14:32:00Z"
+    },
+    {
+      "orderId": "ORD-9820",
+      "customer": "Priya Mehta",
+      "email": "priya.m@example.com",
+      "amount": 12500,
+      "paymentMethod": "Credit Card",
+      "status": "Completed",
+      "date": "2026-04-15T13:18:00Z"
+    },
+    {
+      "orderId": "ORD-9819",
+      "customer": "Arjun Kapoor",
+      "email": "arjun.k@example.com",
+      "amount": 899,
+      "paymentMethod": "UPI",
+      "status": "Pending",
+      "date": "2026-04-15T12:45:00Z"
+    },
+    {
+      "orderId": "ORD-9818",
+      "customer": "Sneha Reddy",
+      "email": "sneha.r@example.com",
+      "amount": 6750,
+      "paymentMethod": "Net Banking",
+      "status": "Completed",
+      "date": "2026-04-15T11:22:00Z"
+    },
+    {
+      "orderId": "ORD-9817",
+      "customer": "Vikram Singh",
+      "email": "vikram.s@example.com",
+      "amount": 3200,
+      "paymentMethod": "Debit Card",
+      "status": "Failed",
+      "date": "2026-04-15T10:58:00Z"
+    },
+    {
+      "orderId": "ORD-9816",
+      "customer": "Ananya Iyer",
+      "email": "ananya.i@example.com",
+      "amount": 15800,
+      "paymentMethod": "Credit Card",
+      "status": "Completed",
+      "date": "2026-04-15T09:34:00Z"
+    },
+    {
+      "orderId": "ORD-9815",
+      "customer": "Karan Patel",
+      "email": "karan.p@example.com",
+      "amount": 2450,
+      "paymentMethod": "UPI",
+      "status": "Completed",
+      "date": "2026-04-14T18:12:00Z"
+    },
+    {
+      "orderId": "ORD-9814",
+      "customer": "Divya Nair",
+      "email": "divya.n@example.com",
+      "amount": 5670,
+      "paymentMethod": "Wallet",
+      "status": "Pending",
+      "date": "2026-04-14T17:45:00Z"
+    },
+    {
+      "orderId": "ORD-9813",
+      "customer": "Aditya Joshi",
+      "email": "aditya.j@example.com",
+      "amount": 890,
+      "paymentMethod": "UPI",
+      "status": "Completed",
+      "date": "2026-04-14T16:20:00Z"
+    },
+    {
+      "orderId": "ORD-9812",
+      "customer": "Ishita Gupta",
+      "email": "ishita.g@example.com",
+      "amount": 11200,
+      "paymentMethod": "Credit Card",
+      "status": "Failed",
+      "date": "2026-04-14T15:08:00Z"
+    },
+    {
+      "orderId": "ORD-9811",
+      "customer": "Rahul Verma",
+      "email": "rahul.v@example.com",
+      "amount": 3450,
+      "paymentMethod": "Net Banking",
+      "status": "Completed",
+      "date": "2026-04-14T13:55:00Z"
+    },
+    {
+      "orderId": "ORD-9810",
+      "customer": "Meera Das",
+      "email": "meera.d@example.com",
+      "amount": 7890,
+      "paymentMethod": "Credit Card",
+      "status": "Completed",
+      "date": "2026-04-14T12:30:00Z"
+    }
+  ]
+}

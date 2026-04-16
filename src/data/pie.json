@@ -1,0 +1,13 @@
+{
+  "chartTitle": "Revenue by Category",
+  "totalRevenue": 824000,
+  "currency": "INR",
+  "data": [
+    { "category": "Electronics", "value": 289000, "percentage": 35.1, "color": "#1976d2" },
+    { "category": "Fashion & Apparel", "value": 197000, "percentage": 23.9, "color": "#ff9800" },
+    { "category": "Home & Kitchen", "value": 148000, "percentage": 17.9, "color": "#4caf50" },
+    { "category": "Books & Stationery", "value": 92000, "percentage": 11.2, "color": "#9c27b0" },
+    { "category": "Beauty & Personal Care", "value": 68000, "percentage": 8.3, "color": "#e91e63" },
+    { "category": "Others", "value": 30000, "percentage": 3.6, "color": "#607d8b" }
+  ]
+}
